@@ -1,3 +1,7 @@
 chili recipe:
 step 1: add chili
 step 2: done Chili recipe...
+
+
+
+Change the Chili-recipe for new branch easy-mode-recipe
