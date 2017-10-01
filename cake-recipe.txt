@@ -1,4 +1,4 @@
 cake recipe.
 step 1: add powerder
 step 2: add water
-step 3: bake at 375C (master)
+step 3: bake at 400C (master)
